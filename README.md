@@ -1,18 +1,18 @@
 # Instalaciones
 
-El proyecto consiste en el uso de Angular y se agregaron las siguientes dependencias:
+El proyecto consiste en el uso de Angular para la creacion de una pagina web, y se agregaron las siguientes dependencias:
 
-- ngx-translate/http-loader
+- **ngx-translate/http-loader**
 
-  
+  Permitir la carga de archivos de traduccion
 
-- ngx-translate/core
+- **ngx-translate/core**
 
-  
+  Servicio de traduccion y pipe
 
-- angular/material
+- **angular/material**
 
-  
+  Permite diseños estandarizados por Google
 
 A continuacion, como hacer la instalacion:
 
